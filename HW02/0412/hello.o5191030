@@ -1,0 +1,13 @@
+/home/lampashake0
+Thu Dec 12 13:01:04 CST 2019
+processor 0 : localAreaResult is : 74.182259042576874
+globalAreaResult is : 469.238898038088053
+Approximation of pi: 3.141592653587254 vs 3.141592653589793
+total time : 0.0000408283
+processor 1 : localAreaResult is : 60.776368349503215
+processor 2 : localAreaResult is : 59.440831104680250
+processor 3 : localAreaResult is : 58.026192408695195
+processor 4 : localAreaResult is : 56.544926687264578
+processor 6 : localAreaResult is : 53.432635014062413
+processor 7 : localAreaResult is : 51.826085210760169
+processor 5 : localAreaResult is : 55.009600220545352

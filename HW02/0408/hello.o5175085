@@ -1,0 +1,6 @@
+/home/lampashake0
+Wed Dec 11 19:12:17 CST 2019
+processor 0 : The number prime pair in 1 and 500000 is:  4565
+processor 1 : The number prime pair in 500001 and 1000000 is:  3604
+Global : The number prime pair in 2 and 1000000 is 8169
+total run time is : 0.0894356134

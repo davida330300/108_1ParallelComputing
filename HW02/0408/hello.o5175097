@@ -1,0 +1,20 @@
+/home/lampashake0
+Wed Dec 11 19:15:28 CST 2019
+processor 0 : The number prime pair in 1 and 62500 is:  831
+processor 1 : The number prime pair in 62501 and 125000 is:  642
+processor 2 : The number prime pair in 125001 and 187500 is:  584
+processor 3 : The number prime pair in 187501 and 250000 is:  531
+processor 4 : The number prime pair in 250001 and 312500 is:  515
+processor 5 : The number prime pair in 312501 and 375000 is:  504
+processor 6 : The number prime pair in 375001 and 437500 is:  505
+processor 7 : The number prime pair in 437501 and 500000 is:  453
+processor 8 : The number prime pair in 500001 and 562500 is:  469
+processor 10 : The number prime pair in 625001 and 687500 is:  469
+processor 9 : The number prime pair in 562501 and 625000 is:  483
+processor 11 : The number prime pair in 687501 and 750000 is:  428
+processor 12 : The number prime pair in 750001 and 812500 is:  425
+processor 13 : The number prime pair in 812501 and 875000 is:  448
+processor 14 : The number prime pair in 875001 and 937500 is:  449
+processor 15 : The number prime pair in 937501 and 1000000 is:  433
+Global : The number prime pair in 2 and 1000000 is 8169
+total run time is : 0.0016381723

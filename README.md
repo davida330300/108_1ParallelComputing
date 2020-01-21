@@ -1,2 +1,2 @@
 # 108_1ParallelComputing
-useng Openmpi
+using Openmpi

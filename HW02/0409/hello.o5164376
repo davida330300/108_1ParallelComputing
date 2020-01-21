@@ -1,0 +1,13 @@
+/home/lampashake0
+Tue Dec 10 14:00:27 CST 2019
+rank 0 processor:
+The largest prime gap from 1 to 250000 (inclusive) is:  86
+Global:
+The largest prime gap in the set 2 and 1000000 (inclusive) is:  114
+total runtime 0.08327167791
+rank 1 processor:
+The largest prime gap from 250001 to 500000 (inclusive) is:  114
+rank 3 processor:
+The largest prime gap from 750001 to 1000000 (inclusive) is:  100
+rank 2 processor:
+The largest prime gap from 500001 to 750000 (inclusive) is:  98

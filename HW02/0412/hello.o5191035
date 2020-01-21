@@ -1,0 +1,21 @@
+/home/lampashake0
+Thu Dec 12 13:01:53 CST 2019
+processor 13 : localAreaResult is : 18.477870124167815
+processor 14 : localAreaResult is : 17.854816275507510
+processor 15 : localAreaResult is : 17.232722265057603
+processor 5 : localAreaResult is : 36.531730096377537
+processor 10 : localAreaResult is : 20.303228917595646
+processor 11 : localAreaResult is : 19.707629026905497
+processor 12 : localAreaResult is : 19.097229219143578
+processor 8 : localAreaResult is : 33.585810733375510
+processor 9 : localAreaResult is : 20.877677204739118
+processor 1 : localAreaResult is : 39.898691144764101
+processor 0 : localAreaResult is : 40.596448309201357
+globalAreaResult is : 469.238898038088109
+Approximation of pi: 3.141592653587254 vs 3.141592653589793
+total time : 0.0000779209
+processor 2 : localAreaResult is : 39.137602187084596
+processor 3 : localAreaResult is : 38.318563381789701
+processor 6 : localAreaResult is : 35.577818738554896
+processor 7 : localAreaResult is : 34.593362945702566
+processor 4 : localAreaResult is : 37.447697468121000
