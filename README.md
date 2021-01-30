@@ -1,2 +1,4 @@
 # 108_1ParallelComputing
-using Openmpi
+Openmpi
+Openmp
+Cuda
